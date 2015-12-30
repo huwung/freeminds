@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1448641565969" ID="ID_1151071214" MODIFIED="1449866819749" TEXT="&#x652f;&#x5b78;&#x5bf6;&#xff1f;&#x667a;&#x5b78;&#x5bf6;">
+<node COLOR="#000000" CREATED="1448641565969" ID="ID_1151071214" MODIFIED="1451110450695" TEXT="&#x652f;&#x5b78;&#x5bf6;">
 <font NAME="PingFang TC" SIZE="20"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
 <node COLOR="#0033ff" CREATED="1448641573636" ID="ID_815599732" MODIFIED="1449866960672" POSITION="right" TEXT="&#x65b9;&#x5411;">
@@ -9,14 +9,62 @@
 <node COLOR="#00b439" CREATED="1448641585945" ID="ID_147809349" MODIFIED="1449866815288" TEXT="&#x4e2d;&#x4ecb;&#xff0c;&#x806f;&#x7e6b;&#x6559;&#x5e2b;&#x548c;&#x5b78;&#x751f;">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="PingFang TC" SIZE="16"/>
+<node COLOR="#990000" CREATED="1451115298164" ID="ID_660118449" MODIFIED="1451115303063" TEXT="&#x500b;&#x6027;&#x5316;&#x670d;&#x52d9;">
+<font NAME="PingFang TC" SIZE="14"/>
+<node COLOR="#111111" CREATED="1451115308437" ID="ID_763401747" MODIFIED="1451115332205" TEXT="&#x611f;&#x89ba;&#x81ea;&#x5982;&#xff0c;&#x8212;&#x9069;&#x4e26;&#x4e14;&#x6709;&#x6536;&#x7a6b;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1451115336108" ID="ID_1246477689" MODIFIED="1451115341536" TEXT="&#x771f;&#x5be6;&#x9ad4;&#x9a57;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1451115342361" ID="ID_413086688" MODIFIED="1451115342362" TEXT="">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+</node>
 </node>
 <node COLOR="#00b439" CREATED="1448641937550" ID="ID_1192786618" MODIFIED="1449866815290" TEXT="&#x91dd;&#x5c0d;&#x5728;&#x6821;&#x5927;&#x5b78;&#x751f;&#x7684;&#x57f9;&#x8a13;">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="PingFang TC" SIZE="16"/>
+<node COLOR="#990000" CREATED="1451115243353" ID="ID_1888349295" MODIFIED="1451115259521" TEXT="&#x4fdd;&#x8b49;&#x670d;&#x52d9;&#x8cea;&#x91cf;&#x7684;&#x95dc;&#x9375;&#x5c31;&#x662f;&#x5167;&#x90e8;&#x57f9;&#x8a13;">
+<font NAME="PingFang TC" SIZE="14"/>
+</node>
 </node>
 <node COLOR="#00b439" CREATED="1448642070093" ID="ID_105845120" MODIFIED="1449866815292" TEXT="&#x985e;&#x4f3c;&#x65bc;quora&#x7684;&#x793e;&#x4ea4;&#x751f;&#x614b;&#xff0c;&#x985e;&#x4f3c;&#x65bc;&#x77e5;&#x4e4e;&#xff1f;">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="PingFang TC" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1451115471946" ID="ID_1912647465" MODIFIED="1451115484388" TEXT="&#x6211;&#x5011;&#x8981;&#x8457;&#x773c;&#x65bc;&#x570b;&#x969b;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="PingFang TC" SIZE="16"/>
+<node COLOR="#990000" CREATED="1451115548628" ID="ID_1163617149" MODIFIED="1451115553431" TEXT="&#x570b;&#x969b;&#x5316;&#x6559;&#x80b2;">
+<font NAME="PingFang TC" SIZE="14"/>
+<node COLOR="#111111" CREATED="1451115556872" ID="ID_1353850087" MODIFIED="1451115559101" TEXT="&#x8a9e;&#x8a00;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1451115567457" ID="ID_581068452" MODIFIED="1451115572778" TEXT="&#x6700;&#x65b0;&#x7684;&#x8cc7;&#x8a0a;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1451115573939" ID="ID_1813403982" MODIFIED="1451115584585" TEXT="&#x6700;&#x597d;&#x7684;&#x65b9;&#x6cd5;&#x5b78;&#x548c;&#x6280;&#x8853;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1451115647176" ID="ID_1303617804" MODIFIED="1451115651784" TEXT="&#x81ea;&#x6211;&#x767c;&#x5c55;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="PingFang TC" SIZE="16"/>
+<node COLOR="#990000" CREATED="1451115652657" ID="ID_193701613" MODIFIED="1451115670214" TEXT="&#x5982;&#x679c;&#x6c92;&#x6709;&#x5de8;&#x5927;&#x7684;&#x71b1;&#x5ff1;&#xff0c;&#x662f;&#x505a;&#x4e0d;&#x597d;&#x6559;&#x80b2;&#x7684;">
+<font NAME="PingFang TC" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1451115485475" ID="ID_413707089" MODIFIED="1451115505176" TEXT="&#x50b3;&#x627f;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="PingFang TC" SIZE="16"/>
+<node COLOR="#990000" CREATED="1451115506660" ID="ID_790763133" MODIFIED="1451115513602" TEXT="&#x4e2d;&#x570b;&#x6b77;&#x53f2;">
+<font NAME="PingFang TC" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1451115515435" ID="ID_715110689" MODIFIED="1451115540135" TEXT="&#x8207;&#x73fe;&#x4ee3;&#x793e;&#x6703;&#x7684;&#x806f;&#x7e6b;">
+<font NAME="PingFang TC" SIZE="14"/>
+</node>
 </node>
 </node>
 <node COLOR="#0033ff" CREATED="1448641589095" ID="ID_957968193" MODIFIED="1449866815294" POSITION="right" TEXT="&#x71d2;&#x9322;&#xff0c;&#x71d2;&#x5728;&#x4ec0;&#x9ebc;&#x65b9;&#x9762;&#xff1f;">
@@ -83,6 +131,95 @@
 <node COLOR="#00b439" CREATED="1448641902943" ID="ID_1562576044" MODIFIED="1449866815320" TEXT="&#x793e;&#x4ea4;&#x7db2;&#x7d61;&#x548c;&#x5927;&#x6578;&#x64da;">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="PingFang TC" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1451110123052" ID="ID_1067833436" MODIFIED="1451110132487" POSITION="right" TEXT="&#x5ba3;&#x50b3;&#x63a8;&#x5ee3;">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="PingFang TC" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1451291883224" ID="ID_1820954736" MODIFIED="1451291895482" TEXT="&#x96fb;&#x4fe1;&#x71df;&#x92b7;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="PingFang TC" SIZE="16"/>
+<node COLOR="#990000" CREATED="1451291896743" ID="ID_524781994" MODIFIED="1451291903018" TEXT="&#x77ed;&#x4fe1;">
+<font NAME="PingFang TC" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1451291904061" ID="ID_598382728" MODIFIED="1451291905844" TEXT="&#x96fb;&#x8a71;">
+<font NAME="PingFang TC" SIZE="14"/>
+<node COLOR="#111111" CREATED="1451291934589" ID="ID_1161072653" MODIFIED="1451291938421" TEXT="&#x547c;&#x53eb;&#x7cfb;&#x7d71;">
+<font NAME="PingFang TC" SIZE="12"/>
+<node COLOR="#111111" CREATED="1451291939909" ID="ID_22558262" MODIFIED="1451292038072" TEXT="&#x901a;&#x904e;&#x7cfb;&#x7d71;&#x8a9e;&#x97f3;&#xff0c;&#x8f49;&#x4eba;&#x5de5;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1451294389004" ID="ID_1582826675" MODIFIED="1451294397606" TEXT="&#x6210;&#x672c;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1451294399425" ID="ID_760805460" MODIFIED="1451294407144" TEXT="&#x6548;&#x679c;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1451291907794" ID="ID_1201735580" MODIFIED="1451291907795" TEXT="">
+<font NAME="PingFang TC" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1451110133785" ID="ID_1819599180" MODIFIED="1451110145280" TEXT="&#x590f;/&#x51ac;&#x4ee4;&#x71df;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="PingFang TC" SIZE="16"/>
+<node COLOR="#990000" CREATED="1451110147588" ID="ID_488120721" MODIFIED="1451110152930" TEXT="&#x4e3b;&#x984c;">
+<font NAME="PingFang TC" SIZE="14"/>
+<node COLOR="#111111" CREATED="1451110252845" ID="ID_1650159881" MODIFIED="1451110257929" TEXT="&#x793e;&#x6703;&#x751f;&#x6d3b;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1451110258625" ID="ID_1865343645" MODIFIED="1451110263246" TEXT="&#x5c08;&#x696d;&#x9818;&#x57df;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1451110154537" ID="ID_1392164134" MODIFIED="1451110161852" TEXT="&#x62db;&#x52df;">
+<font NAME="PingFang TC" SIZE="14"/>
+<node COLOR="#111111" CREATED="1451110163419" ID="ID_441949938" MODIFIED="1451110203194" TEXT="&#x5c0d;&#x4e3b;&#x984c;&#x611f;&#x8208;&#x8da3;&#x7684;&#x4e2d;&#x5c0f;&#x5b78;&#x751f;&#xff0c;&#x5bb6;&#x9577;&#x6216;&#x5728;&#x6821;&#x5927;&#x5b78;&#x751f;(&#x6559;&#x80b2;&#x5b78;&#x80cc;&#x666f;)">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1451110207457" ID="ID_1962027581" MODIFIED="1451110248405" TEXT="&#x5f9e;&#x7a4d;&#x6975;&#x65b9;&#x9762;&#x5f71;&#x97ff;&#x672a;&#x4f86;&#x7684;&#x4e3b;&#x6d41;&#x4eba;&#x7fa4;&#x5c07;&#x6703;&#x6975;&#x5927;&#x5730;&#x63d0;&#x5347;&#x6211;&#x5011;&#x7684;&#x54c1;&#x724c;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1451110272446" ID="ID_805616363" MODIFIED="1451110281209" TEXT="&#x6578;&#x5b57;&#x71df;&#x92b7;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="PingFang TC" SIZE="16"/>
+<node COLOR="#990000" CREATED="1451291834518" ID="ID_222548474" MODIFIED="1451291834522" TEXT="">
+<font NAME="PingFang TC" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1451110310310" ID="ID_499249869" MODIFIED="1451110314716" TEXT="&#x793e;&#x4ea4;&#x5a92;&#x9ad4;">
+<font NAME="PingFang TC" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1451110315321" ID="ID_220764961" MODIFIED="1451110318928" TEXT="&#x7db2;&#x9801;">
+<font NAME="PingFang TC" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1451110350357" ID="ID_960402822" MODIFIED="1451110354179" TEXT="&#x806f;&#x5408;&#x71df;&#x92b7;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="PingFang TC" SIZE="16"/>
+<node COLOR="#990000" CREATED="1451110355224" ID="ID_417584086" MODIFIED="1451110361117" TEXT="&#x548c;&#x6a5f;&#x69cb;&#x9032;&#x884c;&#x5408;&#x4f5c;">
+<font NAME="PingFang TC" SIZE="14"/>
+<node COLOR="#111111" CREATED="1451110362314" ID="ID_28638559" MODIFIED="1451110364520" TEXT="&#x5927;&#x5b78;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1451110365158" ID="ID_338746644" MODIFIED="1451110370114" TEXT="&#x6559;&#x80b2;&#x57f9;&#x8a13;&#x6a5f;&#x69cb;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1451110375065" ID="ID_760317598" MODIFIED="1451110377743" TEXT="&#x793e;&#x5340;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1451110382281" ID="ID_881989879" MODIFIED="1451111440699" TEXT="&#x653f;&#x5e9c;&#x6587;&#x5316;&#x6a5f;&#x95dc;">
+<font NAME="PingFang TC" SIZE="14"/>
+<node COLOR="#111111" CREATED="1451111381404" ID="ID_1919415133" MODIFIED="1451111388952" TEXT="&#x535a;&#x7269;&#x9928;">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1451111389659" ID="ID_1949934880" MODIFIED="1451111389661" TEXT="">
+<font NAME="PingFang TC" SIZE="12"/>
+</node>
+</node>
 </node>
 </node>
 </node>
